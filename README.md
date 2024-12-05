@@ -16,3 +16,7 @@ You can find tons of design pattern articles online, but I find the quality of t
 as compared to other articles.
 
 - Microsoft: https://learn.microsoft.com/en-us/azure/architecture/patterns/
+
+### Networking
+High Perf Browser Networking: https://hpbn.co/primer-on-latency-and-bandwidth/ <br>
+Networking guide: https://beej.us/guide/
