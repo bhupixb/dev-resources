@@ -21,5 +21,6 @@ as compared to other articles.
 High Perf Browser Networking: https://hpbn.co/primer-on-latency-and-bandwidth/ <br>
 Networking guide: https://beej.us/guide/
 
-### Hack Tricks
+### Cyber Security
 Interesting site with different writeups regarding hacking tricks: https://book.hacktricks.xyz
+Lots of Payloads for hacking: https://github.com/swisskyrepo/PayloadsAllTheThings/
