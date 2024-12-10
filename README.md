@@ -20,3 +20,6 @@ as compared to other articles.
 ### Networking
 High Perf Browser Networking: https://hpbn.co/primer-on-latency-and-bandwidth/ <br>
 Networking guide: https://beej.us/guide/
+
+### Hack Tricks
+Interesting site with different writeups regarding hacking tricks: https://book.hacktricks.xyz
